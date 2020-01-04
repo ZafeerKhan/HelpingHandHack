@@ -8,7 +8,7 @@ In Canada, the senior population is rising. Cost effective and modular automatio
 The system integrates several platforms together to create a cost effective solution to various day-to-day activities.
 
 # How we built it
-Alexa -> AWS Gateway -> AWS IoT -> Arduino
+Alexa -> AWS Gateway -> AWS IoT -> Arduino  
 Amazon Rekognition -> AWS Gateway -> AWS IoT -> Arduino
 
 # Challenges we ran into
