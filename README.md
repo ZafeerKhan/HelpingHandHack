@@ -1,4 +1,4 @@
-# Helping Hands: elevate-hackathon-2018
+# Helping Hands: elevate-hackathon
 Helping Hands is an automation system designed towards improving the lives of seniors with daily accessibility issues. The system allows users to control various electrical appliances both inside and outside their homes (room lighting, door opening, ramp deployment etc.) through voice control and facial recognition.  
 
 # Inspiration
